@@ -19,7 +19,7 @@ body{
 }
 
 #point{
-	color:#e21111;
+	color:#FFD100;
 	font-size: 30px;
 	font-weight: bold;
 }
@@ -27,7 +27,7 @@ body{
 #btn1{
 	border-radius: 25px;
 	padding: 10px 20px 10px 20px;
-	background: #e21111;
+	background: #FFD100;
 	text-decoration: none;
 	color: white;
 }
@@ -61,14 +61,14 @@ body{
 
 }
 #ytb{
-	color:#e21111 ;
+	color:#FFD100 ;
 	font-size: 30px;
 	margin-left: 50px;
 	padding-top: 10px;
 }
 /*Partie2*/
 .main{
-	color:#e21111 ;
+	color:#FFD100 ;
 }
 .section3{
 	background: url(../img/about.jpg);
@@ -97,7 +97,7 @@ font-weight: bold;
 margin-top: 0!important;
 }
 .number{
-color:#e21111 ;
+color:#FFD100 ;
 }
 /*Partie 3*/
 .partie3{
@@ -106,7 +106,7 @@ background: #eee;
 padding: 50px;
 }
 .section5{
-	background: #ce1212;
+	background: #FFD100;
 	padding: 30px 20px 30px 20px  ;
 	color:white ;
 	line-height: 30px;
@@ -131,24 +131,25 @@ padding: 50px;
    
 }
 #btn2{
-	background: #d9534f;
+	background: #ffff;
 	border-radius: 15px;
 	margin: 20px;
+	color: #FFD100;
 }
 /*boutton témoignage*/
 
 #voirmoins{
 	border-radius: 25px;
 	/*padding: 10px 20px 10px 20px;*/
-	background: #e21111;
+	background: #FFD100;
 }
 #voirplus{
 	border-radius: 25px;
 	padding: 10px 20px 10px 20px;
-	background: #e21111;
+	background: #FFD100;
 }
 #icontmg{
-	color: #e21111;
+	color: #FFD100;
 	font-style: italic;
 }
 
@@ -208,15 +209,15 @@ padding: 50px;
 #voirmoins{
 	border-radius: 25px;
 	padding: 10px 20px 10px 20px;
-	background: #e21111;
+	background: #FFD100;
 }
 #voirplus{
 	border-radius: 25px;
 	padding: 10px 20px 10px 20px;
-	background: #e21111;
+	background: #FFD100;
 }
 #icontmg{
-	color: #e21111;
+	color: #FFD100;
 	font-style: italic;
 }
 
@@ -237,7 +238,7 @@ padding: 50px;
 }
 .price{
 	font-size: 18px;
-	color:#e21111 ;
+	color:#FFD100 ;
 	font-weight: bold;
 }
 #ourmenu{
