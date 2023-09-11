@@ -1,0 +1,299 @@
+body{
+	background: #33333308; 
+}
+
+.menu{
+	padding: 22px;
+	font-size: 20px;
+	text-decoration-style: none;
+	background: white;
+	/*border-bottom: solid 1px #fff;*/
+}
+
+#logo{
+	color: black;
+	font-size: 25px;
+	font-family: sans-serif;
+	font-weight: bold;
+
+}
+
+#point{
+	color:#e21111;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#btn1{
+	border-radius: 25px;
+	padding: 10px 20px 10px 20px;
+	background: #e21111;
+	text-decoration: none;
+	color: white;
+}
+/*body*/
+.partie1{
+	margin-top: 100px;
+	background: #eee;
+	color: #4f4f5a;
+	padding-bottom:50px ;
+	padding-top: 50px;
+}
+.section1  {
+	padding-top: 100px;
+	
+}
+.section2{
+	padding-top: 100px;
+}
+.enjoy{
+	color: #313140;
+	font-size: 50px;
+	font-weight: bold;
+	
+}
+.watch{
+	font-size: 20px;
+	color: black;
+	background: none!important;
+	border: none!important;
+	
+
+}
+#ytb{
+	color:#e21111 ;
+	font-size: 30px;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+/*Partie2*/
+.main{
+	color:#e21111 ;
+}
+.section3{
+	background: url(../img/about.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 150px;
+}
+.section4 img{
+width: 500px;
+height: 370px;
+}
+.section4 ul li{
+
+}
+.section31{
+	background: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 150px;
+
+
+}
+.book{
+font-weight: bold;	
+margin-top: 0!important;
+}
+.number{
+color:#e21111 ;
+}
+/*Partie 3*/
+.partie3{
+margin-top: 50px;
+background: #eee;
+padding: 50px;
+}
+.section5{
+	background: #ce1212;
+	padding: 30px 20px 30px 20px  ;
+	color:white ;
+	line-height: 30px;
+}
+.section6{
+	background: white;
+	border: solid 1px white;
+	margin: 40px 20px 40px 25px ;
+	line-height: 25px;
+	padding-top: 55px;
+	padding-bottom: 50px;
+}
+#iconpart3{
+	background: rgba(206, 18, 18, 0.1);
+    border-radius: 50%;
+    padding: 20px;
+	align-items: center;
+    font-size: 30px;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+   
+}
+#btn2{
+	background: #d9534f;
+	border-radius: 15px;
+	margin: 20px;
+}
+/*boutton témoignage*/
+
+#voirmoins{
+	border-radius: 25px;
+	/*padding: 10px 20px 10px 20px;*/
+	background: #e21111;
+}
+#voirplus{
+	border-radius: 25px;
+	padding: 10px 20px 10px 20px;
+	background: #e21111;
+}
+#icontmg{
+	color: #e21111;
+	font-style: italic;
+}
+
+.section8{
+	padding: 10px 50px 10px 30px;
+	font-style: italic;
+	font-size: 10px;
+	margin-top: 20px;
+}
+
+/*Footer*/
+.footer{
+	background: #1f1f24;
+	margin-top: 50px;
+	padding: 50px;
+}
+.elementfooter{
+	color: white!important;
+	font-size : 18px;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-weight: bold;
+	justify-content: center;
+}
+#iconfooter{
+	font-size: 30px;
+	color:#adb5bd;
+
+}
+#iconfollow{
+	font-size: 20px;
+	color:#adb5bd;
+	margin-top: 10px;
+	margin-left: 2px;
+}
+.propos{
+	color: #adb5bd;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.copyright{
+	color:#adb5bd ;
+	font-size: 15px;
+	margin-top: 20px;
+}
+.copyright p{
+	font-size: 10px;
+	font-style: italic;
+	margin-top: 10px;
+}
+.ligne{
+	width: 85%;
+	color:#adb5bd!important ;
+}
+/*boutton témoignage*/
+
+#voirmoins{
+	border-radius: 25px;
+	padding: 10px 20px 10px 20px;
+	background: #e21111;
+}
+#voirplus{
+	border-radius: 25px;
+	padding: 10px 20px 10px 20px;
+	background: #e21111;
+}
+#icontmg{
+	color: #e21111;
+	font-style: italic;
+}
+
+.temoignage{
+	padding: 10px 30px 10px 30px;
+	font-style: italic;
+	font-size: 10px;
+}
+#here{
+	font-style: italic;
+	color: white!important;
+	font-family: monospace;
+}
+/*PAGE2 menu*/
+#plats{
+	border-bottom: solid 1px grey!important;
+	margin: 5px;
+}
+.price{
+	font-size: 18px;
+	color:#e21111 ;
+	font-weight: bold;
+}
+#ourmenu{
+	margin-top:150px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+}
+.blocChef{
+	border: solid 1px grey;
+	border-radius: 20px;
+	padding: 0;
+	overflow: hidden;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.Chefmember{
+	padding: 0;
+}
+.ChefInformation p{
+	font-style: italic;
+	text-align: left;
+	line-height: 30px;
+	color: #33333352;
+}
+
+/*PAGE EVENTS*/
+.section10{
+	margin-top: 150px;
+}
+
+#carouselwithcover{
+	background: #000000ad;
+	padding: 50px;
+	
+}
+.eventdescription{
+	padding: 70px 25px 70px 25px ;
+	text-align: justify;
+}
+.withcarousel{
+	padding: 0;
+}
+.galeryCarousel{
+	padding: 0;
+	background:black;
+} /*PAGE BOK A TABLE*/
+
+/*Page contat*/
+.section12{
+	margin-top: 100px;
+}
+.section13{
+	margin-top: 30px;
+	background: white;
+	padding: 50px 30px 50px 30px;
+}
+.section12 h5{
+	font-style: italic;
+}
